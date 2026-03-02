@@ -109,7 +109,7 @@ abstract class AppLocalizations {
   /// Subtitle displayed below name
   ///
   /// In en, this message translates to:
-  /// **'Software Developer.'**
+  /// **'Mobile Developer.'**
   String get subtitle;
 
   /// Focus areas text

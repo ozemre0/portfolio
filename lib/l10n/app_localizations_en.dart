@@ -15,7 +15,7 @@ class AppLocalizationsEn extends AppLocalizations {
   String get name => 'Emre Oz';
 
   @override
-  String get subtitle => 'Software Developer.';
+  String get subtitle => 'Mobile Developer.';
 
   @override
   String get focus =>

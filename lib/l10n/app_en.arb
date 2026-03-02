@@ -8,7 +8,7 @@
   "@name": {
     "description": "Name displayed on homepage"
   },
-  "subtitle": "Software Developer.",
+  "subtitle": "Mobile Developer.",
   "@subtitle": {
     "description": "Subtitle displayed below name"
   },
