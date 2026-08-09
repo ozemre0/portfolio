@@ -9,21 +9,18 @@ class AppLocalizationsEn extends AppLocalizations {
   AppLocalizationsEn([String locale = 'en']) : super(locale);
 
   @override
-  String get appTitle => 'Grut - Portfolio';
+  String get appTitle => 'Emre - Portfolio';
 
   @override
-  String get name => 'Emre Oz';
-
-  @override
-  String get subtitle => 'Mobile Developer.';
+  String get name => 'Muhammet Emre Oz';
 
   @override
   String get focus =>
-      'Flutter • Supabase • Offline-First • Optimization Specialist';
+      'Flutter • Kotlin • Supabase • Offline-First • Optimization Specialist';
 
   @override
   String get about =>
-      'High-performance Mobile Application Developer specializing in Flutter and Serverless Cloud Architectures. I don\'t just write code—I architect systems. My focus is on designing optimized architectures and systems that deliver production-grade applications on both Apple App Store and Google Play Store.';
+      'Mobile Software Engineer specializing in cross-platform systems, local-first architectures, and serverless cloud infrastructures. Focused on building high-performance applications at scale.';
 
   @override
   String get projects => 'PROJECTS';
@@ -37,7 +34,7 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get hitArcheryTechStack =>
-      'Flutter • Offline-First • Supabase Realtime • Google Sign-In • Apple Sign-In • Password Reset • STMP';
+      'Flutter • Kotlin (Android) • Offline-First • Supabase Realtime • Google Sign-In • Apple Sign-In • Password Reset • SMTP';
 
   @override
   String get hitArcheryScoreTitle => 'Hit Archery Score';
@@ -48,7 +45,7 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get hitArcheryScoreTechStack =>
-      'Flutter • Supabase Backend • Supabase Realtime • Google Sign-In • Apple Sign-In • Shared Ecosystem';
+      'Flutter • Kotlin (Android) • Supabase Backend • Supabase Realtime • Google Sign-In • Apple Sign-In • Shared Ecosystem';
 
   @override
   String get neonShowTitle => 'Neon Show';
@@ -59,7 +56,7 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get neonShowTechStack =>
-      'Flutter • NTP Algorithm • Multi-Device Sync • Cloudflare Backend';
+      'Flutter • Kotlin (Android) • NTP Algorithm • Multi-Device Sync • Cloudflare Backend';
 
   @override
   String get hostingManagementTitle => 'Hosting & SSL Management';
@@ -74,7 +71,7 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get hostingManagementTechStack =>
-      'Flutter • Cloudflare Workers • Cloudflare D1 • REST API • Multi-Platform';
+      'Flutter • Kotlin (Android) • Cloudflare Workers • Cloudflare D1 • REST API • Multi-Platform';
 
   @override
   String get links => 'LINKS';
@@ -113,4 +110,28 @@ class AppLocalizationsEn extends AppLocalizations {
   String errorLinkFailed(String url) {
     return 'Error: Could not open link -> $url';
   }
+
+  @override
+  String get resume => 'Download Resume (PDF)';
+
+  @override
+  String get watchDemo => 'Watch Demo';
+
+  @override
+  String get liveWebApp => 'Live Web App / App Store';
+
+  @override
+  String get sourceCode => 'Source Code / GitHub';
+
+  @override
+  String get technicalSkills => 'Technical Skills';
+
+  @override
+  String get mobileNative => 'Mobile & Native';
+
+  @override
+  String get backendCloud => 'Backend & Cloud';
+
+  @override
+  String get engineeringPractice => 'Engineering Practice';
 }

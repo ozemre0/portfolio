@@ -1,22 +1,18 @@
 {
   "@@locale": "en",
-  "appTitle": "Grut - Portfolio",
+  "appTitle": "Emre - Portfolio",
   "@appTitle": {
     "description": "Application title"
   },
-  "name": "Emre Oz",
+  "name": "Muhammet Emre Oz",
   "@name": {
     "description": "Name displayed on homepage"
   },
-  "subtitle": "Mobile Developer.",
-  "@subtitle": {
-    "description": "Subtitle displayed below name"
-  },
-  "focus": "Flutter • Supabase • Offline-First • Optimization Specialist",
+  "focus": "Flutter • Kotlin • Supabase • Offline-First • Optimization Specialist",
   "@focus": {
     "description": "Focus areas text"
   },
-  "about": "High-performance Mobile Application Developer specializing in Flutter and Serverless Cloud Architectures. I don't just write code—I architect systems. My focus is on designing optimized architectures and systems that deliver production-grade applications on both Apple App Store and Google Play Store.",
+  "about": "Mobile Software Engineer specializing in cross-platform systems, local-first architectures, and serverless cloud infrastructures. Focused on building high-performance applications at scale.",
   "@about": {
     "description": "About section text"
   },
@@ -32,7 +28,7 @@
   "@hitArcheryDescription": {
     "description": "Hit Archery project description"
   },
-  "hitArcheryTechStack": "Flutter • Offline-First • Supabase Realtime • Google Sign-In • Apple Sign-In • Password Reset • STMP",
+  "hitArcheryTechStack": "Flutter • Kotlin (Android) • Offline-First • Supabase Realtime • Google Sign-In • Apple Sign-In • Password Reset • SMTP",
   "@hitArcheryTechStack": {
     "description": "Hit Archery tech stack"
   },
@@ -44,7 +40,7 @@
   "@hitArcheryScoreDescription": {
     "description": "Hit Archery Score project description"
   },
-  "hitArcheryScoreTechStack": "Flutter • Supabase Backend • Supabase Realtime • Google Sign-In • Apple Sign-In • Shared Ecosystem",
+  "hitArcheryScoreTechStack": "Flutter • Kotlin (Android) • Supabase Backend • Supabase Realtime • Google Sign-In • Apple Sign-In • Shared Ecosystem",
   "@hitArcheryScoreTechStack": {
     "description": "Hit Archery Score tech stack"
   },
@@ -56,7 +52,7 @@
   "@neonShowDescription": {
     "description": "Neon Show project description"
   },
-  "neonShowTechStack": "Flutter • NTP Algorithm • Multi-Device Sync • Cloudflare Backend",
+  "neonShowTechStack": "Flutter • Kotlin (Android) • NTP Algorithm • Multi-Device Sync • Cloudflare Backend",
   "@neonShowTechStack": {
     "description": "Neon Show tech stack"
   },
@@ -72,7 +68,7 @@
   "@hostingManagementDescription": {
     "description": "Hosting Management project description"
   },
-  "hostingManagementTechStack": "Flutter • Cloudflare Workers • Cloudflare D1 • REST API • Multi-Platform",
+  "hostingManagementTechStack": "Flutter • Kotlin (Android) • Cloudflare Workers • Cloudflare D1 • REST API • Multi-Platform",
   "@hostingManagementTechStack": {
     "description": "Hosting Management tech stack"
   },
@@ -128,5 +124,37 @@
         "type": "String"
       }
     }
+  },
+  "resume": "Download Resume (PDF)",
+  "@resume": {
+    "description": "Resume button text"
+  },
+  "watchDemo": "Watch Demo",
+  "@watchDemo": {
+    "description": "Watch demo button text"
+  },
+  "liveWebApp": "Live Web App / App Store",
+  "@liveWebApp": {
+    "description": "Live Web App / App Store button text"
+  },
+  "sourceCode": "Source Code / GitHub",
+  "@sourceCode": {
+    "description": "Source Code / GitHub button text"
+  },
+  "technicalSkills": "Technical Skills",
+  "@technicalSkills": {
+    "description": "Technical Skills section title"
+  },
+  "mobileNative": "Mobile & Native",
+  "@mobileNative": {
+    "description": "Mobile & Native skills category"
+  },
+  "backendCloud": "Backend & Cloud",
+  "@backendCloud": {
+    "description": "Backend & Cloud skills category"
+  },
+  "engineeringPractice": "Engineering Practice",
+  "@engineeringPractice": {
+    "description": "Engineering Practice skills category"
   }
 }

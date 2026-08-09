@@ -97,31 +97,25 @@ abstract class AppLocalizations {
   /// Application title
   ///
   /// In en, this message translates to:
-  /// **'Grut - Portfolio'**
+  /// **'Emre - Portfolio'**
   String get appTitle;
 
   /// Name displayed on homepage
   ///
   /// In en, this message translates to:
-  /// **'Emre Oz'**
+  /// **'Muhammet Emre Oz'**
   String get name;
-
-  /// Subtitle displayed below name
-  ///
-  /// In en, this message translates to:
-  /// **'Mobile Developer.'**
-  String get subtitle;
 
   /// Focus areas text
   ///
   /// In en, this message translates to:
-  /// **'Flutter • Supabase • Offline-First • Optimization Specialist'**
+  /// **'Flutter • Kotlin • Supabase • Offline-First • Optimization Specialist'**
   String get focus;
 
   /// About section text
   ///
   /// In en, this message translates to:
-  /// **'High-performance Mobile Application Developer specializing in Flutter and Serverless Cloud Architectures. I don\'t just write code—I architect systems. My focus is on designing optimized architectures and systems that deliver production-grade applications on both Apple App Store and Google Play Store.'**
+  /// **'Mobile Software Engineer specializing in cross-platform systems, local-first architectures, and serverless cloud infrastructures. Focused on building high-performance applications at scale.'**
   String get about;
 
   /// Projects section title
@@ -145,7 +139,7 @@ abstract class AppLocalizations {
   /// Hit Archery tech stack
   ///
   /// In en, this message translates to:
-  /// **'Flutter • Offline-First • Supabase Realtime • Google Sign-In • Apple Sign-In • Password Reset • STMP'**
+  /// **'Flutter • Kotlin (Android) • Offline-First • Supabase Realtime • Google Sign-In • Apple Sign-In • Password Reset • SMTP'**
   String get hitArcheryTechStack;
 
   /// Hit Archery Score project title
@@ -163,7 +157,7 @@ abstract class AppLocalizations {
   /// Hit Archery Score tech stack
   ///
   /// In en, this message translates to:
-  /// **'Flutter • Supabase Backend • Supabase Realtime • Google Sign-In • Apple Sign-In • Shared Ecosystem'**
+  /// **'Flutter • Kotlin (Android) • Supabase Backend • Supabase Realtime • Google Sign-In • Apple Sign-In • Shared Ecosystem'**
   String get hitArcheryScoreTechStack;
 
   /// Neon Show project title
@@ -181,7 +175,7 @@ abstract class AppLocalizations {
   /// Neon Show tech stack
   ///
   /// In en, this message translates to:
-  /// **'Flutter • NTP Algorithm • Multi-Device Sync • Cloudflare Backend'**
+  /// **'Flutter • Kotlin (Android) • NTP Algorithm • Multi-Device Sync • Cloudflare Backend'**
   String get neonShowTechStack;
 
   /// Hosting Management project title
@@ -205,7 +199,7 @@ abstract class AppLocalizations {
   /// Hosting Management tech stack
   ///
   /// In en, this message translates to:
-  /// **'Flutter • Cloudflare Workers • Cloudflare D1 • REST API • Multi-Platform'**
+  /// **'Flutter • Kotlin (Android) • Cloudflare Workers • Cloudflare D1 • REST API • Multi-Platform'**
   String get hostingManagementTechStack;
 
   /// Links section title
@@ -279,6 +273,54 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Error: Could not open link -> {url}'**
   String errorLinkFailed(String url);
+
+  /// Resume button text
+  ///
+  /// In en, this message translates to:
+  /// **'Download Resume (PDF)'**
+  String get resume;
+
+  /// Watch demo button text
+  ///
+  /// In en, this message translates to:
+  /// **'Watch Demo'**
+  String get watchDemo;
+
+  /// Live Web App / App Store button text
+  ///
+  /// In en, this message translates to:
+  /// **'Live Web App / App Store'**
+  String get liveWebApp;
+
+  /// Source Code / GitHub button text
+  ///
+  /// In en, this message translates to:
+  /// **'Source Code / GitHub'**
+  String get sourceCode;
+
+  /// Technical Skills section title
+  ///
+  /// In en, this message translates to:
+  /// **'Technical Skills'**
+  String get technicalSkills;
+
+  /// Mobile & Native skills category
+  ///
+  /// In en, this message translates to:
+  /// **'Mobile & Native'**
+  String get mobileNative;
+
+  /// Backend & Cloud skills category
+  ///
+  /// In en, this message translates to:
+  /// **'Backend & Cloud'**
+  String get backendCloud;
+
+  /// Engineering Practice skills category
+  ///
+  /// In en, this message translates to:
+  /// **'Engineering Practice'**
+  String get engineeringPractice;
 }
 
 class _AppLocalizationsDelegate

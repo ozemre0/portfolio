@@ -3,11 +3,12 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "693635b5258fe5f1cda720cf224f158c",
-"assets/AssetManifest.bin.json": "69a99f98c8b1fb8111c5fb961769fcd8",
-"assets/AssetManifest.json": "2efbb41d7877d10aac9d091f58ccd7b9",
+const RESOURCES = {"assets/AssetManifest.bin": "01f59fb2c4dc0b371a4c3724cfbb7906",
+"assets/AssetManifest.bin.json": "79b58be5aefce1d75e3eb7672c51e110",
+"assets/AssetManifest.json": "893fcbeb0601723d837429afd7147f77",
+"assets/assets/images/neon3.png": "12107a3554eb2afca264c88280ba4606",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
-"assets/fonts/MaterialIcons-Regular.otf": "a5a7923548d3bc140960f809e4b477b2",
+"assets/fonts/MaterialIcons-Regular.otf": "d629196582ee0e0a6f3917fa35d1986c",
 "assets/NOTICES": "1279a517c1c91c8cb89e487a9e7f5770",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "33b7d9392238c04c131b6ce224e13711",
 "assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
@@ -25,15 +26,16 @@ const RESOURCES = {"assets/AssetManifest.bin": "693635b5258fe5f1cda720cf224f158c
 "canvaskit/skwasm_heavy.wasm": "8034ad26ba2485dab2fd49bdd786837b",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "flutter.js": "888483df48293866f9f41d3d9274a779",
-"flutter_bootstrap.js": "5a45d0daf3bf823887481da9ffc0924a",
+"flutter_bootstrap.js": "bc97134803b35d497aace3e989858870",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "4d4cd3dae16caae5224ce5cfc3edd606",
-"/": "4d4cd3dae16caae5224ce5cfc3edd606",
-"main.dart.js": "54997890d756c8d6618f7404b442980a",
+"index.html": "25b09afb0fc87e4f08c7263d14390cf0",
+"/": "25b09afb0fc87e4f08c7263d14390cf0",
+"main.dart.js": "968c719d930f66341b8f1c3e1c95d23a",
 "manifest.json": "e74af8957b5899dc6da961caee768ec9",
+"resume.pdf": "888645180996b36a95a21e75a57c7e3e",
 "version.json": "009c9e65172e010890f7f65fde438006"};
 // The application shell files that are downloaded before a service worker can
 // start.
